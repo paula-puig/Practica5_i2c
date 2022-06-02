@@ -133,3 +133,4 @@ Un cop escanejat si en troba algun apareixerà per pantalla un missatge informan
 El programa compta amb un rellotge i una pantalla display per tal de mostrar pel display l'hora i la data. El codi inicialitza el rellotge RTC i la pantalla LCD en el void setup(), així com encen la llum de fons en el display. Seguidament en el bucle, void loop(), s'obté l'hora i la data amb el rellotge RTC amb la comanda HoraFecha = rtc.now() i es carrega el missatge que s'imprimirà per pantalla al display. Finalment, ens apareixerà pel display l'hora i la data amb el següent format: "Hora = hora:minut:segon Fecha = dia/mes/any".
 
 El video de demostració esta penjat al github.
+https://drive.google.com/file/d/1wQVoJcNwkrI5TeoGpr7YMWx4Wqm5tgV-/view?usp=sharing
